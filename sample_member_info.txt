@@ -1,0 +1,6 @@
+Name Password Phone
+alice123 pass123 0912345678
+boblin secure888 0922111222
+charlie7 qwerty77 0933555666
+david_ee 1234abcd 0955666777
+emma_w 88889999 0966123456
