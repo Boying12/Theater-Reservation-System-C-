@@ -1,4 +1,5 @@
-🎭 NCU Theater Reservation System (C++)
+🎭 Theater Reservation System (C++)
+
 📌 Project Overview
 
 This project is a console-based theater reservation and membership management system implemented in C++. It allows users to:
